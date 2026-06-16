@@ -1,0 +1,22 @@
+{
+  "name": "FinanceCalc Pro",
+  "short_name": "FinanceCalc",
+  "description": "Calculadora financeira profissional e simulador de investimentos.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme-color": "#820ad1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
